@@ -60,9 +60,9 @@
 
 | 期次       | 主题                                                                               | 状态  | 视频链接 |
 | -------- | -------------------------------------------------------------------------------- | --- | ---- |
-| 2026-W22 | [NeRF / 3DGS / VGGT 与 逆渲染：领域全景图](./episodes/2026-W22-NeRF-3DGS-VGGT-IR/notes.md) | 撰写中 | TBD  |
-| 2026-W23 | [vLLM × LoRA × SFT：本地部署大模型三件套](./episodes/2026-W23-vLLM-LoRA-SFT/notes.md)       | 撰写中 | TBD  |
-
+| 2026-M6 | [NeRF / 3DGS / VGGT 与 逆渲染：领域全景图](./episodes/2026-W22-NeRF-3DGS-VGGT-IR/notes.md) | 撰写中 | TBD  |
+| 2026-M7 | [vLLM × LoRA × SFT：本地部署大模型三件套](./episodes/2026-W23-vLLM-LoRA-SFT/notes.md)       | 撰写中 | TBD  |
+| 2026-M8 | [看见电磁波，从最基础的原理出发     | 撰写中 | TBD  |
 
 > 还没想好下一期讲什么？翻 `[Basic/](./Basic/README.md)`：按编程 / 常用库 / 数学三类列了一堆潜在选题。
 
